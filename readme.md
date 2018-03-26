@@ -2,6 +2,8 @@
 A simple React + Redux implementation in Instagram style. Project made doing an
 online course by Wes Bos.
 
+Integrated JS error monitoring config for Sentry in `client/data/config.js`.
+
 
 ## Running
 1. `npm install`
